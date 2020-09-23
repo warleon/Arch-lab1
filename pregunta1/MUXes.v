@@ -1,7 +1,6 @@
 module MUX_2_1(a,b,s,o);
 	input [15:0] a;
 	input [15:0] b;
-
 	input s;
 	output [15:0] o;
 
